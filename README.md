@@ -8,7 +8,7 @@ But On the other side, I love to see things getting connected and interacting wi
 
 🔭 I’m currently working on AWS backed IoT projects for building connected products.
 
-🌱 My Skill Set:
+🌱 What I can help you with:
   * Node.JS
   * MongoDB
   * Microservices
@@ -18,5 +18,5 @@ But On the other side, I love to see things getting connected and interacting wi
   * Serverless App Development
   * Docker\
   
-📫 How to reach me: Drop a mail at <ashishsenapati21@gmail.com>
+📫 Want to connect with me: Drop a mail at <ashishsenapati21@gmail.com>
 
