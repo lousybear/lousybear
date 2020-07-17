@@ -18,5 +18,5 @@ But On the other side, I love to see things getting connected and interacting wi
   * Serverless App Development
   * Docker\
   
-📫 Want to connect with me: Drop a mail at <ashishsenapati21@gmail.com>
+📫 Want to connect with me? drop a mail at <ashishsenapati21@gmail.com>
 
