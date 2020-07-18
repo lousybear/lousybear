@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 >***"I'm an explorer, just like you.\
-Lurking in the code vaults, looking for something new."***
+Lurking in code vaults, looking for something new."***
 
 I primarily work as a Back-end Web Developer. 
 But On the other side, I love to see things getting connected and interacting with each other seamlessly, How easily we can connect and control things from distance.
