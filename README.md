@@ -16,7 +16,7 @@ But On the other side, I love to see things getting connected and interacting wi
   * Python
   * from Arch to Kali Linux
   * Serverless App Development
-  * Docker\
+  * Docker
   
 📫 Want to connect with me? drop a mail at <ashishsenapati21@gmail.com>
 
