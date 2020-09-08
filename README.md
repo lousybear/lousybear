@@ -1,5 +1,5 @@
 ## Hi there! 👋
-![](assets/screenshot.gif)
+![](screenshot.gif)
 
 >***"I'm an explorer, just like you.\
 Lurking in code vaults, looking for something new."***
